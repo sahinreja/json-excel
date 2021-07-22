@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "name":"John Smith",
+        "class":"Eight",
+        "age":14,
+        "address":"USA"
+    },
+    {
+        "id":2,
+        "name":"John Deo",
+        "class":"Nine",
+        "age":15,
+        "address":"CHINA"
+    },
+    {
+        "id":3,
+        "name":"Mark",
+        "class":"Seven",
+        "age":13,
+        "address":"INDIA"
+    }
+
+]
